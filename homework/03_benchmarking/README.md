@@ -287,37 +287,4 @@
 
 ---
 
-## Приложение: Шаблон Google Таблицы
-
-### Скопируйте эту таблицу и заполните:
-
-🔗 **Ссылка на шаблон:** [Создать копию](https://docs.google.com/spreadsheets/d/ШАБЛОН_ССЫЛКА/edit)
-
-**Структура таблицы:**
-
-| Конкурент | Ссылка | Цена | Бизнес-модель | Функционал | Позиционирование | Преимущества | ЦА | Accuracy | Latency | API | Video Support |
-|-----------|--------|------|---------------|------------|------------------|--------------|-----|----------|---------|-----|---------------|
-| Reality Defender | [link] | Free + custom | Freemium | Image/Audio API | Enterprise-grade | Multi-model | Enterprises | не раскрыта | real-time | ✅ | ❌ (planned) |
-| Facia AI | [link] | $0.40/check | Pay as you go | Full stack | AI identity verification | Transparent pricing | SMB to Enterprise | не раскрыта | не раскрыт | ✅ | ✅ |
-| Intel FakeCatcher | [link] | Enterprise only | Enterprise | Real-time video | Real-time detection | 96% accuracy | Large enterprises | 96% | real-time | ❌ | ✅ |
-| Microsoft | [link] | Bundle | Ecosystem | Photo/Video scoring | Trusted brand | Integration | Broad | не раскрыта | не раскрыт | ❌ | ✅ |
-| Sensity AI | [link] | Enterprise | Enterprise | Synthetic media detection | Specialized | Focus | Enterprises | не раскрыта | не раскрыт | ✅ | ✅ |
-| **Наш продукт** | — | $0.10-0.20 + free | Hybrid | Video API + temporal | Accessible video detection | Temporal analysis, price | SMB to Enterprise | ≥0.90 (target) | ≤5 sec | ✅ | ✅ |
-
----
-
-## ✅ Статус выполнения
-
-| Пункт задания | Статус |
-|--------------|--------|
-| 1. Выбор конкурентов (3+ компании) | ✅ |
-| 2. Сбор информации по конкурентам | ✅ |
-| 3. Анализ и сравнение | ✅ |
-| 4. Определение стандартов | ✅ |
-| 5. Google Таблица | 🔄 (требуется создание копии) |
-
----
-
-**Репозиторий:** `https://github.com/helenavibes/DeepFake-Detection`  
-**Путь к файлу:** `homework/03_benchmarking/README.md`  
-**Статус:** ✅ Готово к сдаче (требуется создать Google Таблицу)
+## Приложение: https://docs.google.com/spreadsheets/d/1r96k2q-KGJr1NL01eIOFZqnZJlP9Y_jcS1SWCYS4W3U/edit?usp=sharing
